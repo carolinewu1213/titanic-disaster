@@ -1,0 +1,14 @@
+# Dataset (do not commit)
+src/data/
+
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+
+# R session files
+.Rhistory
+.RData
