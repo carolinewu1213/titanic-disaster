@@ -12,3 +12,5 @@ __pycache__/
 # R session files
 .Rhistory
 .RData
+
+!src/data/.gitkeep
