@@ -14,3 +14,6 @@ __pycache__/
 .RData
 
 !src/data/.gitkeep
+
+src/python/predictions.csv
+src/r/predictions.csv
